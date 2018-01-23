@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">Are you a true filmophile?</string>
+    <string name="q1">1. \"<b><i>Frankly, my dear, I don\'t give a damn.\</i></b>" - This is a quote from which of the following films:</string>
+    <string name="q1A">Casablanca (1942)</string>
+    <string name="q1B">Star Wars (1977)</string>
+    <!-- This is the correct answer: -->
+    <string name="q1C">Gone With The Wind (1939)</string>
+    <string name="q1D">Citizen Kane (1941)</string>
+    <string name="q2">2. \"<b><i>There\'s no place like home.\</i></b>" - This is a quote from which of the following films:</string>
+    <!-- This is the correct answer: -->
+    <string name="q2A">The Wizard of Oz (1939)</string>
+    <string name="q2B">Midnight Cowboy (1969)</string>
+    <string name="q2C">Jerry Maguire (1996)</string>
+    <string name="q2D">In The Heat of the Night (1967)</string>
+    <string name="q3">3. \"<b><i>Houston, we have a problem.\</i></b>" - This is a quote from which of the following films:</string>
+    <string name="q3A">Animal Crackers (1930)</string>
+    <!-- This is the correct answer: -->
+    <string name="q3B">Apollo 13 (1995)</string>
+    <string name="q3C">Annie Hall (1977)</string>
+    <string name="q3D">The Godfather (1974)</string>
+    <string name="q4">4. \"<b><i>Say \"hello\" to my little friend!\</i></b>" - This is a quote from which of the following films:</string>
+    <string name="q4A">Casablanca (1942)</string>
+    <string name="q4B">Beyond the Forest (1949)</string>
+    <!-- This is the correct answer: -->
+    <string name="q4C">Scarface (1983)</string>
+    <string name="q4D">The Jazz Singer (1927)</string>
+    <string name="q5">5. \"<b><i>Listen to them. Children of the night. What music they make.\</i></b>" - This is a quote from which of the following films:</string>
+    <!-- This is the correct answer: -->
+    <string name="q5A">Dracula (1931)</string>
+    <string name="q5B">Funny Girl (1968)</string>
+    <string name="q5C">A Streetcar Named Desire (1951)</string>
+    <string name="q5D">The Shining (1980)</string>
+    <string name="q6">6. \"<b><i>Elementary, my dear Watson.\</i></b>" - This is a quote from which of the following films:</string>
+    <string name="q6A">Dr Strangelove (1964)</string>
+    <string name="q6B">Soylent Green (1973)</string>
+    <string name="q6C">Planet of the Apes (1968)</string>
+    <!-- This is the correct answer: -->
+    <string name="q6D">The Adventures of Sherlock Holmes (1939)</string>
+    <string name="q7">7. \"<b><i>Nobody puts Baby in a corner.\</i></b>" - This is a quote from which of the following films:</string>
+    <!-- This is the correct answer: -->
+    <string name="q7A">Dirty Dancing (1987)</string>
+    <string name="q7B">Wizard of Oz (1939)</string>
+    <string name="q7C">The Lord of the Rings (2002)</string>
+    <string name="q7D">King Kong (1933)</string>
+    <string name="q8">8. Which of the following movies were directed by Quentin Tarantino:</string>
+    <!-- This is the correct answer: -->
+    <string name="q8A">Kill Bill: Vol. 1 (2003)</string>
+    <string name="q8B">Pacific Rim (2013)</string>
+    <!-- This is the correct answer: -->
+    <string name="q8C">Inglourious Basterds (2009)</string>
+    <string name="q8D">Crimson Peak (2015)</string>
+    <string name="q9">9. How many movies are in The Lord of the Rings series?</string>
+    <string name="q9A">Write the number</string>
+    <string name="check_button">Let me know the score</string>
+    <string name="your_name">Please enter your name</string>
+    <string name="here">Here</string>
+    <string name="exclamation_mark">!</string>
+    <string name="all_correct"> You are a movie addict! </string>
+    <string name="half"> You should pay more attention to films </string>
+    <string name="almost_none"> Maybe films aren\'t your strongest field </string>
+    <string name="you_got">You got: </string>
+    <string name="points"> Points</string>
+</resources>
