@@ -55,9 +55,9 @@
     <string name="your_name">Please enter your name</string>
     <string name="here">Here</string>
     <string name="exclamation_mark">!</string>
-    <string name="all_correct"> You are a movie addict! </string>
+    <string name="all_correct"> You are a movie addict!\u</string>
     <string name="half"> You should pay more attention to films </string>
-    <string name="almost_none"> Maybe films aren\'t your strongest field </string>
-    <string name="you_got">You got: </string>
-    <string name="points"> Points</string>
+    <string name="almost_none">\u0020Maybe films aren\'t your strongest field </string>
+    <string name="you_got">You got: \u</string>
+    <string name="points">\u0020Points</string>
 </resources>
